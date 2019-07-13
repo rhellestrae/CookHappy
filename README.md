@@ -1,4 +1,7 @@
 # Cook Happy
+
+available @ App Store - https://apps.apple.com/us/app/cook-happy/id1455744934
+
 Tips, skills, recipes, techniques for new chefs - and culinary enthusiasts;
 
 Custom Vision AI service, via device camera, identifies and recognizes actual or pictured food dish - with option to browse corresponding recipe;
