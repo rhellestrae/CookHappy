@@ -1,4 +1,4 @@
-# CookHappy
+# Cook Happy
 Tips, skills, recipes, techniques for new chefs - and culinary enthusiasts;
 
 Custom Vision AI service, via device camera, identifies and recognizes actual or pictured food dish - with option to browse corresponding recipe;
